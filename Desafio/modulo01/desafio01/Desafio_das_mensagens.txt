@@ -1,0 +1,3 @@
+-- Olá, tudo bem? Vamos começar nossos exercícios com algo bem simples: exibir
+-- textos com uma mistura de parágrafos e quebras de linhas.
+-- Você deve criar um código HTML que use apenas parágrafos e quebra de linhas
